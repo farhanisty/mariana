@@ -2,6 +2,7 @@
     "name": "farhanisty/mariana",
     "description": "entity class helper",
     "type": "library",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Farhannivta Ramadhana",
