@@ -2,7 +2,8 @@
     "name": "farhanisty/mariana",
     "description": "entity class helper",
     "type": "library",
-    "minimum-stability": "dev",
+    "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Farhannivta Ramadhana",
