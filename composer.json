@@ -1,0 +1,17 @@
+{
+    "name": "farhanisty/mariana",
+    "description": "entity class helper",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Farhannivta Ramadhana",
+            "email": "farhannivtasija@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Farhanisty\\Mariana\\": "src/"
+        }
+    }
+}
